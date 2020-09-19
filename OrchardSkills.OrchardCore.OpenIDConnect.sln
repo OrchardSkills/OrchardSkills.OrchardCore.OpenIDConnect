@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardSkills.OrchardCore.OpenIDConnect.Server", "OrchardSkills.OrchardCore.OpenIDConnect\Server\OrchardSkills.OrchardCore.OpenIDConnect.Server.csproj", "{FE3EF122-CBCC-493C-9682-75AD0459C73D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardSkills.OrchardCore.OpenIDConnect.Client", "OrchardSkills.OrchardCore.OpenIDConnect\Client\OrchardSkills.OrchardCore.OpenIDConnect.Client.csproj", "{A0094B6D-695B-4BAB-BB36-FA325B132FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrchardSkills.OrchardCore.OpenIDConnect.Shared", "OrchardSkills.OrchardCore.OpenIDConnect\Shared\OrchardSkills.OrchardCore.OpenIDConnect.Shared.csproj", "{074C4D9C-1D52-43B3-BF26-1A8A0CDF7980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE3EF122-CBCC-493C-9682-75AD0459C73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3EF122-CBCC-493C-9682-75AD0459C73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3EF122-CBCC-493C-9682-75AD0459C73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3EF122-CBCC-493C-9682-75AD0459C73D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0094B6D-695B-4BAB-BB36-FA325B132FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0094B6D-695B-4BAB-BB36-FA325B132FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0094B6D-695B-4BAB-BB36-FA325B132FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0094B6D-695B-4BAB-BB36-FA325B132FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074C4D9C-1D52-43B3-BF26-1A8A0CDF7980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074C4D9C-1D52-43B3-BF26-1A8A0CDF7980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074C4D9C-1D52-43B3-BF26-1A8A0CDF7980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074C4D9C-1D52-43B3-BF26-1A8A0CDF7980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32C1B13B-718E-43FC-84F8-3C7BDBC7AF3F}
+	EndGlobalSection
+EndGlobal
